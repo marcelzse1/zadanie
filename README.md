@@ -25,6 +25,5 @@ Marcel Smagieł
 <p align="right"> <font color="purple" size="5" face="Times New Roman"> :‑O zaskoczenie </font> </p> <br>
 <p align="right"> <font color="brown" size="3" face="Verdana"> D:< przerażenie </font> </p> <br>
 <p align="right"> <font color="orange" size="6" face="Arial"> ;] buźka z puszczeniem oka </font> </p> <br>
-
-		</body>
-	</html>
+	</body>
+  </html>
